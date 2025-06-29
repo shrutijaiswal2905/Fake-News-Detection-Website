@@ -1,0 +1,10 @@
+[server]
+headless = true
+
+[theme]
+primaryColor = "#e63946"  # soft red, replaces green for consistency
+backgroundColor = "#f0f2f6"   # dark background
+secondaryBackgroundColor = "#A9A9A9"    # dark grey for widget boxes
+textColor = "#FFFFFF"    # white text
+font = "sans serif"
+
