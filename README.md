@@ -50,9 +50,9 @@ The app can:
 
 ## 📸 Screenshots
 
-| Dashboard | Prediction |
+| Dashboard | Get News by Entering Texts |
 |----------|-----------|
-| ![Dashboard](screenshots/demo1.png) | ![Prediction](screenshots/demo2.png) |
+| ![Dashboard](homepage.png) | ![Get News by Entering Texts](newsbyenteringtext.png) |
 
 ---
 
