@@ -60,7 +60,7 @@ The app can:
 
 | Prediction(by a URL) | Prediction(by the Keywords) |
 |----------|-----------|
-| ![Prediction(by a URL)](prediction(by a URL).png) | ![Prediction(by the Keywords](prediction(by a keyword).png) |
+| ![Prediction(by a URL)](prediction(byURL).png) | ![Prediction(by the Keywords](prediction(bykeyword).png) |
 
 ---
 
