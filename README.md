@@ -50,9 +50,17 @@ The app can:
 
 ## 📸 Screenshots
 
-| Dashboard | Get News by Entering Texts |
+| Dashboard | 
+|----------|
+| ![Dashboard](homepage.png) |
+
+| Get News By Entering Keyword | Get News by Entering Texts or Few Sentences |
 |----------|-----------|
-| ![Dashboard](homepage.png) | ![Get News by Entering Texts](newsbyenteringtext.png) |
+| ![Get News By Entering Keyword](newsbykeyword.png) | ![Get News by Entering Texts or Few Sentences](newsbyenteringtext.png) |
+
+| Prediction(by a URL) | Prediction(by the Keywords) |
+|----------|-----------|
+| ![Prediction(by a URL)](prediction(by a URL).png) | ![Prediction(by the Keywords](prediction(by a keyword).png) |
 
 ---
 
