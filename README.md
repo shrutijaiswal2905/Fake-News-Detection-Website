@@ -91,3 +91,13 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+---
+## 🤝 Contribution
+Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
+---
+## 📫 Contact
+For queries or collaboration:
+- Name: Shruti Jaiswal
+- Email: shrutijaiswal2905@gmail.com
+---
+## 🌟 If you find this project useful, don't forget to star ⭐ the repository to support further development and visibility!
